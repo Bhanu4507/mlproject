@@ -6,6 +6,6 @@ seaborn
 ipykernel
 catboost
 xgboost
-Flash
+Flask
 
 -e .
