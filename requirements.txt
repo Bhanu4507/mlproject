@@ -3,10 +3,9 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-ipykernel
 catboost
 xgboost
-Flask
+flask
 dill
+gunicorn
 
--e .
